@@ -1,0 +1,24 @@
+-- github class --
+
+1- Create a repo and clone it 
+or create folder, then push it
+
+1.1- add peers as colaborators
+
+2- add any html project to the cloned folder
+
+3- run git status (u should see your project)
+
+4. run git add . 
+
+6- run git commit 
+
+7- run git push 
+
+8- check wheteher files were uploaded to repo
+
+9 - create git flow :
+-from main, create branch dev
+-from dev, create branch feature
+--each peer create a feature branch
+--makes a change on proyect and push it

@@ -1,0 +1,10 @@
+1. crear un repositorio (lo pueden crear en github y despues clonarlos o crear la carpeta y desde el local subirlo) -> recomiendo siempre crear el repo desde github y clonarlo
+1.1 -> Agregar los compañeros como colaboradores
+2. agregar algun proyecto html que tengamos a esa carpeta clonada
+3. en la consola de esa carpeta van a usar git status (les debe apareces los archivos agregados)
+4. usar git add . para agregar todos los archivos al commit
+5. usar git commit 
+6. usar git push para subir los cambios
+7. revisar en github que los archivos si esten
+8. crear git flow - > a partir del main crear la branch develop y por lo menos una feature branch a partir de develop (eso lo pueden hacer remoto o local)
+9. cada compañero crea una feature branch a partir de develop, hace un cambio, lo sube 
