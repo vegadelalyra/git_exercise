@@ -7,7 +7,7 @@ or create folder, then push it
 
 2- add any html project to the cloned folder
 
-3- run git status (u should see your project)
+3- run git status (u should see your pfdklñvndfklb bdnbdo bdfbroject)
 
 4. run git add . 
 
